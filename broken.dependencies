@@ -1,0 +1,20 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "deadman96385/android_kernel_asus_Z00A",
+    "target_path":  "kernel/asus/Z00A",
+    "branch":       "0.4-dev"
+  },
+  {
+    "remote":       "github",
+    "repository":   "DirtyUnicorns/android_vendor_asus",
+    "target_path":  "vendor/asus",
+    "branch":       "lollipop-caf"
+  },
+  {
+    "remote":       "github",
+    "repository":   "SlimRoms/android_system_extras_su",
+    "target_path":  "system/extras/su",
+    "branch":       "lp5.1"
+  }
+]
